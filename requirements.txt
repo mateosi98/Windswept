@@ -1,0 +1,4 @@
+gym~=0.21.0
+stable_baselines3~=1.7.0
+sb3_contrib~=1.7.0
+tensorboard~=2.12.9
